@@ -3,6 +3,13 @@ Object detection using Tensorflow python library from the input images.
 
 The TensorFlow Object Detection API is an open source framework built on top of TensorFlow that makes it easy to construct, train and deploy object detection models. At Google we’ve certainly found this codebase to be useful for our computer vision needs, and we hope that you will as well.
 
+Output with detected cricket_ball in image.
+
+![screenshot 809](https://user-images.githubusercontent.com/32256364/42314336-6d5439a6-8062-11e8-98e8-ede186e3a0fe.png)
+![screenshot 811](https://user-images.githubusercontent.com/32256364/42314337-6d85fb76-8062-11e8-8cc0-acf5e0479aef.png)
+![screenshot 812](https://user-images.githubusercontent.com/32256364/42314338-6db72fac-8062-11e8-9155-7e698f9987ad.png)
+![screenshot 813](https://user-images.githubusercontent.com/32256364/42314339-6de5b87c-8062-11e8-97d0-bf6c1596a6da.png)
+
 
 
 STEPS:
